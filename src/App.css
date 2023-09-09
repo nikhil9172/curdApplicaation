@@ -1,0 +1,26 @@
+.add_btn{
+  text-align: right;
+}
+
+
+.container{
+overflow: auto;
+}
+
+.left-view span{
+  font-size: small;
+  font-weight: 600;
+}
+
+.left-view h5{
+  font-size: medium;
+}
+
+.right-view span{
+  font-size: small;
+  font-weight: 600;
+}
+
+.right-view h5{
+  font-size: medium;
+}
